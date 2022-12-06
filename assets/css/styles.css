@@ -1,0 +1,138 @@
+.main-container{
+  padding: 5% 8%;
+  height: 1200px;
+}
+
+.top-container{
+  display: block;
+  margin-bottom: 50px;
+}
+
+.navbar-nav{
+  margin-left: 700px;
+}
+
+.nav-link{
+  margin: 20px;
+}
+
+.middle-container{
+  margin-bottom: 60px;
+  width: 100%;
+  height: 600px;
+}
+
+.mid-first-half{
+  width: 60%;
+  float: left;
+}
+
+.desktop-img{
+  width: 840px;
+  height: 310px;
+  float: left;
+  margin-bottom: 40px;
+}
+
+.mid-first-half h1{
+  width: 35%;
+  font-size: 60px;
+  float: left;
+}
+
+.mid-first-half p{
+  font-size: 20px;
+  color: grey;
+  margin-top: 50px;
+  margin-left: 400px;
+  margin-right: 10px;
+}
+
+.mid-second-half{
+  color: white;
+  float: right;
+  background-color: #0A1931;
+  width: 400px;
+  height: 575px;
+  padding-left: 20px;
+  padding-right: 20px;
+  position: relative;
+  right: 135px;
+}
+
+.mid-second-half h1{
+  color: #E8C07D;
+  font-size: 50px;
+  padding: 20px 0;
+}
+
+.mid-second-half p{
+  font-size: 20px;
+  padding-bottom: 15px;
+}
+
+hr{
+  border-bottom: 0;
+  padding-bottom: 15px;
+}
+
+div h2{
+  font-size: 25px;
+}
+
+.btn{
+  margin-left: 100px;
+  margin-top: 35px;
+}
+
+.attribution {
+  padding-bottom: 20px;
+  font-size: 25px;
+  text-align: center;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+  text-decoration: none;
+}
+
+.retro-pc-img{
+  height: 140px;
+  position: relative;
+  float: left;
+  top: 10px;
+}
+
+.top-laptop-img{
+  height: 125px;
+  position: relative;
+  left: 400px;
+  bottom: 125px;
+  float: left;
+}
+
+.element-one{
+  position: relative;
+  left: 20px;
+}
+
+.element-two{
+  position: relative;
+  left: 440px;
+  bottom: 132px;
+}
+
+.element-number-style{
+  color: #B2B2B2;
+  font-size: 45px;
+}
+
+.element-header-style{
+  font-size: 20px;
+  margin-bottom: 18px;
+}
+
+.element-para-style{
+  margin-right: 120px;
+  color: grey;
+}
